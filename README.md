@@ -82,6 +82,7 @@ Bank-Customer-Churn-SQL-Project/
 │   └── customers_by_country.png
 │
 └── README.md
+```
 📸 Screenshots
 Top 10 Customers with Highest Balance
 ![Top 10 Customers](./screenshots/top_10_highest_balance.png)
